@@ -1,0 +1,5 @@
+{
+  "name": "Inspire Analyzer",
+  "description": "Template Intelligence Tool for CCM developers to analyze Quadient Inspire (.TNO) templates.",
+  "requestFramePermissions": []
+}
